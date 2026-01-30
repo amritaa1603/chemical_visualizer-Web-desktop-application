@@ -1,0 +1,6 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Compressor-X1,Reciprocating,250.0,55.4,85.2
+Heater-H5,Thermal,15.0,12.5,350.5
+Cooler-C2,Heat Exchanger,310.2,8.0,15.0
+Valve-V9,Control,45.5,45.0,95.0
+Pump-P9,Centrifugal,180.0,22.1,200.0

@@ -1,0 +1,5 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump-01,Centrifugal,120.5,15.2,45.0
+Boiler-A,Thermal,85.0,25.0,180.0
+Valve-99,Control,10.2,5.5,30.0
+Tank-05,Storage,0.0,2.1,25.5
